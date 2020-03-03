@@ -10,7 +10,7 @@ function commonCharacterCount(s1, s2) {
         if(idx >= 0){
         count++;
         s2Array.splice(idx, 1);
-
+        
         }
 
     }
